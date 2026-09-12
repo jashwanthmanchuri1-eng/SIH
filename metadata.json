@@ -1,0 +1,11 @@
+{
+  "name": "FarmLink AI",
+  "description": "Farmer-side market intelligence and direct trading platform for price discovery, net realization ranking, and verified buyer linkage.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
